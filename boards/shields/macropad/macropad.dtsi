@@ -32,7 +32,7 @@
         >;
     };
     
-    &physical_layout0 {
+    &physical_layout_0 {
     kscan = <&kscan0>;
     transform = <&matrix_transform0>;
     };
